@@ -11,6 +11,7 @@ Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:maurafitzgerald@berkeley
 ## Demo Video
 
 See the burnnd demo here: (https://youtu.be/DXwX_3QWPY0)
+Reference app documentation here: (https://docs.google.com/presentation/d/12bqw-Ru_X3cjru593ifmee2hkqav_NgLi3zislK8sdA/edit?usp=sharing)
 
 ## Acknowledgments
 
