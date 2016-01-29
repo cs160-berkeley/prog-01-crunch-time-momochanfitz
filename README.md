@@ -1,18 +1,18 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+This is a simple application that allows a user to entire the exercise they have done, and see how
+many calories they have burned, as well as equivalent amounts of other exercises. This project is
+for my CS160 (User Interface design) class at UC Berkeley.
 
 ## Author
 
-Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:your_email@berkeley.edu))
+Maura Fitzgerald ([maurafitzgerald@berkeley.edu](mailto:maurafitzgerald@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See the burnnd demo here: (https://youtu.be/DXwX_3QWPY0)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+The burnnd logo is from iconfinder.com
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
